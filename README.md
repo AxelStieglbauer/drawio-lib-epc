@@ -8,7 +8,7 @@ Library file for draw.io to model [event-driven process chains (EPCs)](https://e
 
 Just click on this URL:
 
-<https://app.diagrams.net/?clibs=Uhttps://raw.githubusercontent.com/AxelStieglbauer/drawio-lib-epc/main/EPC.xml>
+<https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/AxelStieglbauer/drawio-lib-epc/main/EPC.xml>
 
 The draw.io web app will start with the EPC library preloaded.
 
@@ -39,7 +39,7 @@ Bibliotheksdatei für draw.io um [Ereignisgesteuerte Prozessketten (EPKs)](https
 
 Klicken Sie einfach auf folgende URL:
 
-<https://app.diagrams.net/?clibs=Uhttps://raw.githubusercontent.com/AxelStieglbauer/drawio-lib-epc/main/EPC.xml>
+<https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/AxelStieglbauer/drawio-lib-epc/main/EPC.xml>
 
 Daraufhin öffnet sich die draw.io Web App mit der EPK-Bibliothek.
 
