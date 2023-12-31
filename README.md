@@ -2,7 +2,8 @@
 
 ## 🇬🇧 🇺🇸 …
 
-Library file for draw.io to model [event-driven process chains (EPCs)](https://en.wikipedia.org/wiki/Event-driven_process_chain).
+Library file for draw.io to model
+[event-driven process chains (EPCs)](https://en.wikipedia.org/wiki/Event-driven_process_chain).
 
 ### Quickstart
 
@@ -21,7 +22,8 @@ The draw.io web app will start with the EPC library preloaded.
 
 (Or see: <https://www.drawio.com/blog/custom-libraries#open-a-custom-shape-library>)
 
-The imported library `EPC` will show up among the other shape libraries on the left bar.
+The imported library `EPC` will show up among the other shape libraries
+on the left bar.
 
 ### Usage
 
@@ -29,11 +31,15 @@ Just drag the shapes you want to use from the library onto the drawing area.
 
 ### Feedback welcome
 
-I've created this library with the "works for me" approach. If you have any suggestions, ideas, etc. that will make it work for you as well, please let me know. I'll see what I can do.
+I've created this library with the "works for me" approach.
+If you have any suggestions, ideas, etc. that will make it work for you as well,
+please let me know. I'll see what I can do.
 
 ## 🇩🇪 🇦🇹 🇨🇭 …
 
-Bibliotheksdatei für draw.io um [Ereignisgesteuerte Prozessketten (EPKs)](https://de.wikipedia.org/wiki/Ereignisgesteuerte_Prozesskette) zu modellieren.
+Bibliotheksdatei für draw.io um
+[Ereignisgesteuerte Prozessketten (EPKs)](https://de.wikipedia.org/wiki/Ereignisgesteuerte_Prozesskette)
+zu modellieren.
 
 ### Schnellstart
 
@@ -52,12 +58,16 @@ Daraufhin öffnet sich die draw.io Web App mit der EPK-Bibliothek.
 
 Oder siehe: <https://www.drawio.com/blog/custom-libraries#open-a-custom-shape-library>
 
-Die importierte Bibliothek `EPC` wird bei den andern Formenbibliotheken auf der linken Leiste angezeigt.
+Die importierte Bibliothek `EPC` wird bei den andern Formenbibliotheken
+auf der linken Leiste angezeigt.
 
 ### Verwendung
 
-Einfach die Formen, die verwendet werden Sollen aus der Bibliothek auf die Zeichenfläche ziehen.
+Einfach die Formen, die verwendet werden Sollen,
+aus der Bibliothek auf die Zeichenfläche ziehen.
 
 ### Rückmeldungen erwünscht
 
-Ich habe diese Bibliothek nach dem „Funktioniert für mich“-Ansatz erstellt. Wenn Sie Vorschläge, Ideen, etc. haben, lassen Sie es mich wissen. Ich werde zusehen, was ich tun kann.
+Ich habe diese Bibliothek nach dem „Funktioniert für mich“-Ansatz erstellt.
+Wenn Sie Vorschläge, Ideen, etc. haben, lassen Sie es mich wissen.
+Ich werde zusehen, was ich tun kann.
